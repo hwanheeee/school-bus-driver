@@ -52,7 +52,8 @@
 
 ---
 
-# 📸 스크린샷
-> (스크린샷 추가 예정)
+### 🚌 운전자 앱 (Driver App)
+![Driver App Screenshot](./screenshots/driverapp.bmp)
+
 
 ---
