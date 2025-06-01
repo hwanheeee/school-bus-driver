@@ -53,7 +53,7 @@
 ---
 
 ### 🚌 운전자 앱 (Driver App)
-<img src="./screenshots/driverapp.png" alt="Driver App" width="300"/>
+<img src="./screenshots/driverapp.png" alt="Driver App" width="500"/>
 
 
 ---
